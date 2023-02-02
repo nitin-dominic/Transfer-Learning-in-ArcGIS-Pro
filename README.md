@@ -2,4 +2,4 @@
 
 The following script implements transfer learning in ArcGIS Pro using Arcpy package. 
 
-Read the paper here: 10.13031/aim.202100742. 
+ Implementation in the paper - [Leveraging transfer learning in ArcGIS Pro to detect “doubles” in a sunflower field](https://elibrary.asabe.org/abstract.asp?aid=52515)
